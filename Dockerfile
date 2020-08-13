@@ -1,1 +1,1 @@
-FROM k8s.gcr.io/kube-controller-manager:v1.16.13
+FROM kubesphere/kube-controller-manager@sha256:3dc7711550463d4f9ffbc232e6584f22f9ef63f7fab5c2f1ca886624165f05b8
